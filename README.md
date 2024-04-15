@@ -1,19 +1,16 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Ali Fareed</h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/ali-fareed-70b060203" target="_blank" rel="noreferrer">Ali</a>an accomplished Cloud Support Engineer and a passionate DevOps Engineer, working on Cloud and DevOps. Feel free to reach out</font></h3>
+<h3 align="center"><font face="Arial">I am an accomplished Cloud Support Engineer and a passionate DevOps Engineer, working on Cloud and DevOps. Feel free to reach out</font></h3>
 <br>
-<p align="left">🔭 I’m currently working on Azure Administration, AWS Administration, Azure DevOps<br><br>🌱 I’m currently learning AWS Administration<br><br>👯 I’m looking to collaborate on Azure, AWS and DevOps<br><br>💬 Ask me about MS Azure, AWS, DevOps</p>
-
+<p align="left">🔭 I’m currently working on Azure Administration, AWS Administration and Azure DevOps<br><br>🌱 I’m currently learning AWS Administration<br><br>👯 I’m looking to collaborate on Azure, AWS and DevOps<br><br>💬 Ask me about MS Azure, AWS, DevOps</p>
 
 <!-- GIF -->
-<img align="right" height="300" width="450" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
-
+<img align="right" height="300" width="450" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679457321415/e404c522-8c6c-429a-b226-f8c98b9c3948.gif"/>
 
 <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
-
-- I work on DevOps, Microservices, containers, and everything around it.
+- Implementing, and managing scalable CI/CD Pipelines, automating infrastructure, Microservices, Containers and ensuring system reliability
 - I’m looking to collaborate on **Cloud-native Projects**
 
 
@@ -59,6 +56,9 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
 </div>
 
+<!-- GIF -->
+<img align="right" height="300" width="450" src="https://miro.medium.com/v2/resize:fit:1358/1*reRpiezl3EnhtteqjoGSLw.gif"/>
+
 #### Infrastructure as Code & Automation
 <div align="left">
   <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge" height="40" alt="terraform logo"  />
@@ -99,6 +99,9 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" height="40" alt="jira logo"  />
   <img width="12" />
 </div>
+
+<!-- GIF -->
+<img align="right" height="300" width="450" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/6oFTUDQ-1.gif"/>
 
 #### Integrated Development Environments and Editors
 <div align="left">
