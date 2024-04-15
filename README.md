@@ -4,7 +4,7 @@
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
-<img align="left" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif](https://www.google.com/imgres?q=linux%20bash%20gif&imgurl=https%3A%2F%2Fbruxy.regnet.cz%2Flinux%2Fmatrix%2Fmatrix_bf32.gif&imgrefurl=https%3A%2F%2Fbruxy.regnet.cz%2Fweb%2Flinux%2FEN%2Fmatrix-sh%2F&docid=PVW2Og9Q2_5ewM&tbnid=w8-7cY8rh8BxVM&vet=12ahUKEwio0bPEgsSFAxX1Q_EDHfqIDw4QM3oECC8QAA..i&w=320&h=195&hcb=2&ved=2ahUKEwio0bPEgsSFAxX1Q_EDHfqIDw4QM3oECC8QAA" />
+<img align="left" height="300" width="500" src="https://www.google.com/imgres?q=linux%20bash%20gif&imgurl=https%3A%2F%2Fbruxy.regnet.cz%2Flinux%2Fmatrix%2Fmatrix_bf32.gif&imgrefurl=https%3A%2F%2Fbruxy.regnet.cz%2Fweb%2Flinux%2FEN%2Fmatrix-sh%2F&docid=PVW2Og9Q2_5ewM&tbnid=w8-7cY8rh8BxVM&vet=12ahUKEwio0bPEgsSFAxX1Q_EDHfqIDw4QM3oECC8QAA..i&w=320&h=195&hcb=2&ved=2ahUKEwio0bPEgsSFAxX1Q_EDHfqIDw4QM3oECC8QAA" />
 
 
 <!-- Languages and Tools Section -->
