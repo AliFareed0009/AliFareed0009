@@ -117,10 +117,11 @@
 </p>
 
 - 📫 How to reach me **[alifareed0009@gmail.com](mailto:alifareed0009@gmail.com)**
--  <img src="https://skillicons.dev/icons?i=devto" height="40" alt="devto logo"  />  Read my Blogs on Dev.to *[dev.to/alifareed0009](dev.to/alifareed0009)**
+-  <img src="https://skillicons.dev/icons?i=devto" height="40" alt="devto logo"  />  Read my Blogs on Dev.to [dev.to/alifareed0009](dev.to/alifareed0009)
 
 <div align="left"> 
   <a href="https://www.linkedin.com/in/ali-fareed-70b060203" target="_blank" rel="noreferrer">
+    Follow me on LinkedIn
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" href="www.linkedin.com/in/ali-fareed-70b060203" height="40" title="Click Here to visit my LinkedIn Account" alt="linkedin logo"  />
   </a>
 </div>
