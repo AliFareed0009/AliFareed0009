@@ -116,9 +116,9 @@
 <p align="left">
 </p>
 
-- 📫 How to reach me **[alifareed0009@gmail.com](mailto:alifareed0009@gmail.com)**
+- How to reach me **[alifareed0009@gmail.com](mailto:alifareed0009@gmail.com)**  📫 
 - Read my Blogs on Dev.to [dev.to/alifareed0009](dev.to/alifareed0009)  <img src="https://skillicons.dev/icons?i=devto" href="dev.to/alifareed0009" height="40" alt="devto logo"  /> 
--  Follow me on Linkedin <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" href="www.linkedin.com/in/alifareed0009" height="40" title="Click Here to visit my LinkedIn Account" alt="linkedin logo"  />
+- Follow me on Linkedin <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" href="www.linkedin.com/in/alifareed0009" height="40" title="Click Here to visit my LinkedIn Account" alt="linkedin logo"  />
 
 
   
