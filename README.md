@@ -70,8 +70,9 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" height="40" alt="jenkins logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="40" alt="azure logo"  />
-</div>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=black&style=for-the-badge" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  </div>
 
 #### Orchestration
 <div align="left">
@@ -90,7 +91,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="40" alt="azure logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="40" alt="amazonwebservices logo"  />
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonwebservices&logoColor=FF9900&style=for-the-badge" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
 </div>
 
@@ -116,6 +117,7 @@
 </p>
 
 - 📫 How to reach me **[alifareed0009@gmail.com](mailto:alifareed0009@gmail.com)**
+-  <img src="https://skillicons.dev/icons?i=devto" height="40" alt="devto logo"  />  Read my Blogs on Dev.to *[dev.to/alifareed0009](dev.to/alifareed0009)**
 
 <div align="left"> 
   <a href="https://www.linkedin.com/in/ali-fareed-70b060203" target="_blank" rel="noreferrer">
