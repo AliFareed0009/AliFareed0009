@@ -116,13 +116,11 @@
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
 <p align="left"></p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/AliFareed0009](https://github.com/AliFareed0009)  
+- 👨‍💻 All of my projects are available at [https://github.com/AliFareed0009?tab=repositories](Github Repositories)  
 - 📫 How to reach me **alifareed0009@gmail.com**
 - 💬 Read my Blogs on Dev.to [https://dev.to/alifareed0009](https://dev.to/alifareed0009)  
-<p align="left">
 - Connect with me on Linkedin
   <a href="https://www.linkedin.com/in/alifareed0009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" title="Click Here to visit my LinkedIn Account" alt="LinkedIn" height="30" width="40" /></a>
-</p>
 
 
   
