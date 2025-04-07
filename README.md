@@ -117,7 +117,6 @@
 <!-- Contact Section -->
 
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
-<p align="left"></p>
 
 - All of my projects are available here [GitHub](https://github.com/AliFareed0009?tab=repositories)  
 <a href="https://github.com/AliFareed0009?tab=repositories" target="blank"><img align="center" src="https://github.com/AliFareed0009/AliFareed0009/blob/main/Utils/github-svgrepo-com.svg" title="Click Here for my GitHub Repositories" alt="GitHub" height="30" width="40" /></a>
