@@ -116,14 +116,14 @@
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
 <p align="left"></p>
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/AliFareed0009?tab=repositories)  
-<a href="https://github.com/AliFareed0009?tab=repositories" target="blank"><img align="center" src="https://github.com/AliFareed0009/AliFareed0009/tree/cdc70b52577a8477ef8cdbfcc16ce9f12be99dac/Utils/github-svgrepo-com.svg" title="Click Here for my GitHub Repositories" alt="GitHub" height="30" width="40" /></a>
+- All of my projects are available at [GitHub](https://github.com/AliFareed0009?tab=repositories)  
+<a href="https://github.com/AliFareed0009?tab=repositories" target="blank"><img align="center" src="https://github.com/AliFareed0009/AliFareed0009/blob/main/Utils/github-svgrepo-com.svg" title="Click Here for my GitHub Repositories" alt="GitHub" height="30" width="40" /></a>
 
 - How to reach me **alifareed0009@gmail.com**
- <a href="alifareed0009@gmail.com" target="blank"><img align="center" src="https://github.com/AliFareed0009/AliFareed0009/tree/cdc70b52577a8477ef8cdbfcc16ce9f12be99dac/Utils/delivered-email-envelope-letter-mail-message-svgrepo-com.svg" title="Click Here to send me an Email" alt="Email" height="30" width="40" /></a>
+ <a href="alifareed0009@gmail.com" target="blank"><img align="center" src="https://github.com/AliFareed0009/AliFareed0009/blob/main/Utils/delivered-email-envelope-letter-mail-message-svgrepo-com.svg" title="Click Here to send me an Email" alt="Email" height="30" width="40" /></a>
 
 - Read my Blogs on Dev.to [https://dev.to/AliFareed0009](https://dev.to/alifareed0009) 
- <a href="https://dev.to/alifareed0009" target="blank"><img align="center" src="https://github.com/AliFareed0009/AliFareed0009/tree/cdc70b52577a8477ef8cdbfcc16ce9f12be99dac/Utils/dev-to-svgrepo-com.svg" title="Click Here to read my Blogs" alt="Dev.to" height="30" width="40" /></a>
+ <a href="https://dev.to/alifareed0009" target="blank"><img align="center" src="https://github.com/AliFareed0009/AliFareed0009/blob/main/Utils/dev-to-svgrepo-com.svg" title="Click Here to read my Blogs" alt="Dev.to" height="30" width="40" /></a>
 
 - Connect with me on Linkedin [https://www.linkedin.com/in/AliFareed0009](https://www.linkedin.com/in/alifareed0009) 
   <a href="https://www.linkedin.com/in/alifareed0009" target="blank"><img align="center" src="https://github.com/AliFareed0009/AliFareed0009/blob/main/Utils/linkedin-svgrepo-com.svg" title="Click Here to visit my LinkedIn Account" alt="LinkedIn" height="30" width="40" /></a>
