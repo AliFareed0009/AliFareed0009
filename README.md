@@ -119,7 +119,7 @@
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
 
 - All of my projects are available here [https://github.com/AliFareed0009/Repositories](https://github.com/AliFareed0009?tab=repositories)
-<a href="https://github.com/AliFareed0009?tab=repositories" target="blank"><img align="center" src="ttps://github.com/AliFareed0009/AliFareed0009/blob/main/Utils/github-color-svgrepo-com.svg" alt="GitHub" height="30" width="40" /></a>
+<a href="https://github.com/AliFareed0009?tab=repositories" target="blank"><img align="center" src="https://github.com/AliFareed0009/AliFareed0009/blob/main/Utils/github-color-svgrepo-com.svg" alt="GitHub" height="30" width="40" /></a>
 
 - How to reach me **alifareed0009@gmail.com**
 <a href="alifareed0009@gmail.com" target="blank"><img align="center" src="https://github.com/AliFareed0009/AliFareed0009/blob/main/Utils/delivered-email-envelope-letter-mail-message-svgrepo-com.svg" title="Click Here to send me an Email" alt="Email" height="30" width="40" /></a>
@@ -129,4 +129,3 @@
 
 - Connect with me on Linkedin [https://www.linkedin.com/in/AliFareed0009](https://www.linkedin.com/in/alifareed0009)
 <a href="https://www.linkedin.com/in/alifareed0009" target="blank"><img align="center" src="https://github.com/AliFareed0009/AliFareed0009/blob/main/Utils/linkedin-svgrepo-com.svg" title="Click Here to visit my LinkedIn Account" alt="LinkedIn" height="30" width="40" /></a>
-
