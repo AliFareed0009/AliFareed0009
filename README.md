@@ -102,7 +102,10 @@
 </div>
 
 <!-- GIF -->
+
+<!--
 <img align="right" height="300" width="450" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/6oFTUDQ-1.gif"/>
+-->
 
 #### Integrated Development Environments and Editors
 <div align="left">
@@ -116,7 +119,7 @@
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
 <p align="left"></p>
 
-- All of my projects are available at [GitHub](https://github.com/AliFareed0009?tab=repositories)  
+- All of my projects are available here [GitHub](https://github.com/AliFareed0009?tab=repositories)  
 <a href="https://github.com/AliFareed0009?tab=repositories" target="blank"><img align="center" src="https://github.com/AliFareed0009/AliFareed0009/blob/main/Utils/github-svgrepo-com.svg" title="Click Here for my GitHub Repositories" alt="GitHub" height="30" width="40" /></a>
 
 - How to reach me **alifareed0009@gmail.com**
@@ -127,11 +130,4 @@
 
 - Connect with me on Linkedin [https://www.linkedin.com/in/AliFareed0009](https://www.linkedin.com/in/alifareed0009) 
   <a href="https://www.linkedin.com/in/alifareed0009" target="blank"><img align="center" src="https://github.com/AliFareed0009/AliFareed0009/blob/main/Utils/linkedin-svgrepo-com.svg" title="Click Here to visit my LinkedIn Account" alt="LinkedIn" height="30" width="40" /></a>
-
-
-  
-
-
-
-
 
