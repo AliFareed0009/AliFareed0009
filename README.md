@@ -1,5 +1,10 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Ali Fareed</h1>
+
+<div align="center">
+  <img src="https://github.com/AliFareed0009/AliFareed0009/blob/main/banner.jpeg" alt="AliFareed0009 Banner">
+</div>
+
 <h3 align="center"><font face="Arial">I am an accomplished Cloud Support Engineer and a passionate DevOps Engineer, working on Cloud and DevOps. Feel free to reach out</font></h3>
 <br>
 <p align="left">🔭 I’m currently working on Azure Administration, AWS Administration and Azure DevOps<br><br>🌱 I’m currently learning AWS Administration<br><br>👯 I’m looking to collaborate on Azure, AWS and DevOps<br><br>💬 Ask me about MS Azure, AWS, DevOps</p>
@@ -12,7 +17,6 @@
 
 - Implementing, and managing scalable CI/CD Pipelines, automating infrastructure, Microservices, Containers and ensuring system reliability
 - I’m looking to collaborate on **Cloud-native Projects**
-
 
 
 #### Programming Language Stack
@@ -108,13 +112,18 @@
 </div>
 
 <!-- Contact Section -->
-<h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
-<p align="left">
-</p>
 
-- How to reach me **[alifareed0009@gmail.com](mailto:alifareed0009@gmail.com)**  📫 
-- Read my Blogs on Dev.to [dev.to/alifareed0009](dev.to/alifareed0009)  <img src="https://skillicons.dev/icons?i=devto" href="dev.to/alifareed0009" height="40" alt="devto logo"  /> 
-- Follow me on Linkedin <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" href="www.linkedin.com/in/alifareed0009" height="40" title="Click Here to visit my LinkedIn Account" alt="linkedin logo"  />
+<h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
+<p align="left"></p>
+
+- 👨‍💻 All of my projects are available at [https://github.com/AliFareed0009"](https://github.com/AliFareed0009")  
+- 📫 How to reach me **alifareed0009@gmail.com**
+- 💬 Read my Blogs on Dev.to [dev.to/alifareed0009](dev.to/alifareed0009)  
+
+- Connect with me on Linkedin
+<p align="left">
+  <a href="www.linkedin.com/in/alifareed0009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" title="Click Here to visit my LinkedIn Account" alt="LinkedIn" height="30" width="40" /></a>
+</p>
 
 
   
