@@ -126,7 +126,7 @@
  <a href="https://dev.to/alifareed0009" target="blank"><img align="center" src="https://github.com/AliFareed0009/AliFareed0009/tree/cdc70b52577a8477ef8cdbfcc16ce9f12be99dac/Utils/dev-to-svgrepo-com.svg" title="Click Here to read my Blogs" alt="Dev.to" height="30" width="40" /></a>
 
 - Connect with me on Linkedin [https://www.linkedin.com/in/AliFareed0009](https://www.linkedin.com/in/alifareed0009) 
-  <a href="https://www.linkedin.com/in/alifareed0009" target="blank"><img align="center" src="https://github.com/AliFareed0009/AliFareed0009/tree/cdc70b52577a8477ef8cdbfcc16ce9f12be99dac/Utils/linkedin-svgrepo-com.svg" title="Click Here to visit my LinkedIn Account" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/alifareed0009" target="blank"><img align="center" src="https://github.com/AliFareed0009/AliFareed0009/blob/main/Utils/linkedin-svgrepo-com.svg" title="Click Here to visit my LinkedIn Account" alt="LinkedIn" height="30" width="40" /></a>
 
 
   
