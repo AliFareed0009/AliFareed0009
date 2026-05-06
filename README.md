@@ -5,10 +5,10 @@
   <img src="https://github.com/AliFareed0009/AliFareed0009/blob/main/Utils/banner.jpeg" alt="AliFareed0009 Banner">
 </div>
 
-<h3 align="center"><font face="Arial">I am an accomplished Cloud Support Engineer and a passionate DevOps Engineer, working on Cloud and DevOps. Feel free to reach out</font></h3>
+<h3 align="center"><font face="Arial"I am a Senior DevOps / Site Reliability Engineer with 4+ years of experience building and operating cloud-native platforms across AWS and Azure.. Feel free to reach out</font></h3>
 <br>
-<p align="left">🔭 I’m currently working on Azure Administration, AWS Administration and Azure DevOps<br><br>🌱 I’m currently learning AWS Administration<br><br>👯 I’m looking to collaborate on Azure, AWS and DevOps<br><br>💬 Ask me about MS Azure, AWS, DevOps</p>
-
+<p align="left">🔭 I specialize in Kubernetes, CI/CD automation, GitOps (ArgoCD), and Infrastructure as Code (Terraform/Ansible)<br><br>🌱 with a strong focus on delivering scalable, reliable, and secure systems for production environments.</p>
+ 
 <!-- GIF -->
 <img align="right" height="300" width="450" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679457321415/e404c522-8c6c-429a-b226-f8c98b9c3948.gif"/>
 
@@ -16,7 +16,7 @@
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
 - Implementing, and managing scalable CI/CD Pipelines, automating infrastructure, Microservices, Containers and ensuring system reliability
-- I’m looking to collaborate on **Cloud-native Projects**
+- I’m looking to collaborate on **DevOps / Site Reliability / Platform Engineering / Cloud-native Projects**
 
 
 #### Programming Language Stack
