@@ -7,7 +7,7 @@
 
 <h3 align="center"><font face="Arial"I am a Senior DevOps / Site Reliability Engineer with 4+ years of experience building and operating cloud-native platforms across AWS and Azure.. Feel free to reach out</font></h3>
 <br>
-<p align="left">🔭 I specialize in Kubernetes, CI/CD automation, GitOps (ArgoCD), and Infrastructure as Code (Terraform/Ansible)<br><br>🌱 with a strong focus on delivering scalable, reliable, and secure systems for production environments.</p>
+<p align="left">I specialize in Kubernetes, CI/CD automation, GitOps (ArgoCD), and Infrastructure as Code (Terraform/Ansible) with a strong focus on delivering scalable, reliable, and secure systems for production environments.</p>
  
 <!-- GIF -->
 <img align="right" height="300" width="450" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679457321415/e404c522-8c6c-429a-b226-f8c98b9c3948.gif"/>
