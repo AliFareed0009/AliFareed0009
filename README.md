@@ -1,131 +1,236 @@
-<!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi 👋, I'm Ali Fareed</h1>
+<div align="center">
+
+<img src="./Utils/banner.jpeg" alt="Ali Fareed — Senior DevOps and Cloud Platform Engineer" width="100%">
+
+# Hi, I'm Ali Fareed 👋
+
+### Senior DevOps & Cloud Platform Engineer
+
+**AWS • Microsoft Azure • Kubernetes • Terraform • GitOps • SRE • Platform Engineering**
+
+<p>
+  <a href="https://www.linkedin.com/in/ali-fareed00009">
+    <img src="https://img.shields.io/badge/LinkedIn-Ali%20Fareed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:alifareed0009@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://dev.to/alifareed0009">
+    <img src="https://img.shields.io/badge/Dev.to-Technical%20Blogs-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to">
+  </a>
+</p>
+
+**Based in Pakistan • Open to Global Remote Roles • International Contracts • Relocation**
+
+</div>
+
+---
+
+## About Me
+
+I am a **Senior DevOps and Cloud Platform Engineer with 5+ years of experience** building, automating, and operating production cloud infrastructure across **AWS and Microsoft Azure**.
+
+My work focuses on cloud platform engineering, Kubernetes, infrastructure automation, CI/CD, GitOps, observability, DevSecOps, and production reliability. I combine hands-on engineering with ownership of major technical workstreams across enterprise environments.
+
+I have supported platforms serving **more than one million users**, directly worked across **20+ EKS and AKS clusters**, and supported approximately **150 microservices within a broader estate of 500+ services**.
+
+### What I Work On
+
+* Designing and operating scalable AWS and Azure cloud platforms
+* Building production Kubernetes platforms with Amazon EKS and Azure AKS
+* Automating infrastructure using Terraform, CloudFormation, Bicep, and Ansible
+* Developing CI/CD and GitOps delivery workflows
+* Improving observability, incident response, and production reliability
+* Implementing secure cloud, Kubernetes, identity, and networking patterns
+* Building Internal Developer Platforms and reusable engineering workflows
+* Supporting engineering teams through automation, standards, and self-service capabilities
+
+---
+
+## Engineering Impact
+
+| Area                           | Result                                                  |
+| ------------------------------ | ------------------------------------------------------- |
+| Kubernetes platforms           | Supported 20+ EKS and AKS clusters                      |
+| Microservices                  | Directly supported approximately 150 services           |
+| Organizational platform estate | Contributed to environments containing 500+ services    |
+| Platform availability          | Supported services with up to 99.99% availability       |
+| Deployment time                | Reduced from 240 minutes to 50 minutes                  |
+| Deployment success rate        | Improved from 85% to 98%                                |
+| Incident recovery              | Reduced MTTR by up to 65%                               |
+| Infrastructure provisioning    | Reduced delivery time by up to 90%                      |
+| Developer enablement           | Reduced service onboarding from weeks to under two days |
+
+---
+
+## Core Technology Stack
+
+### Cloud Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS">
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure">
+</p>
+
+**AWS:** EKS, ECS, Fargate, EC2, Lambda, RDS, S3, ECR, VPC, IAM, KMS, Route 53, ALB, NLB, Auto Scaling, Organizations, Control Tower, Transit Gateway, PrivateLink, CloudTrail, AWS Config, GuardDuty, CloudWatch, Systems Manager and EventBridge.
+
+**Azure:** AKS, ACR, App Service, Virtual Machines, VM Scale Sets, Virtual Networks, NSGs, Azure Firewall, Application Gateway WAF, Front Door, Private Link, Private DNS, Azure SQL, Storage, Key Vault, Managed Identities, Entra ID, Management Groups, Landing Zones, Azure Policy, Defender for Cloud and Azure Monitor.
+
+---
+
+### Kubernetes and Platform Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white" alt="Amazon EKS">
+  <img src="https://img.shields.io/badge/Azure%20AKS-0078D4?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Azure AKS">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm">
+  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD">
+</p>
+
+Kubernetes, Amazon EKS, Azure AKS, Docker, Helm, Argo CD, Flux CD, Flagger, Istio, NGINX Ingress, Karpenter, Cluster Autoscaler, KEDA, OPA Gatekeeper, cert-manager, external-dns, Falco, RBAC, network policies, Backstage and Internal Developer Platforms.
+
+---
+
+### Infrastructure as Code and Automation
+
+<p>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/CloudFormation-759C3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS CloudFormation">
+  <img src="https://img.shields.io/badge/Azure%20Bicep-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Bicep">
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
+</p>
+
+Terraform, CloudFormation, Bicep, Ansible, reusable infrastructure modules, remote state management, drift detection, policy enforcement, environment standardization and infrastructure lifecycle automation.
+
+---
+
+### CI/CD and GitOps
+
+<p>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD">
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
+</p>
+
+GitHub Actions, GitLab CI/CD, Azure DevOps, Jenkins, Argo CD, reusable workflows, artifact management, automated testing, security validation, environment promotion, blue-green deployments, canary releases, progressive delivery and automated rollback.
+
+---
+
+### SRE, Observability and Incident Management
+
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry">
+  <img src="https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white" alt="Elastic Stack">
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog">
+</p>
+
+Prometheus, Grafana, Datadog, ELK, Splunk, OpenTelemetry, Jaeger, PagerDuty, CloudWatch, Azure Monitor, SLIs, SLOs, error budgets, on-call operations, incident command, root-cause analysis, capacity planning, high availability, disaster recovery and automated remediation.
+
+---
+
+### DevSecOps and Cloud Security
+
+<p>
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" alt="Trivy">
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube">
+  <img src="https://img.shields.io/badge/OPA-7D9199?style=for-the-badge&logo=openpolicyagent&logoColor=white" alt="Open Policy Agent">
+  <img src="https://img.shields.io/badge/Falco-00AEC7?style=for-the-badge&logo=falco&logoColor=white" alt="Falco">
+</p>
+
+IAM, RBAC, workload identity, secrets management, encryption, network policies, vulnerability scanning, container security, policy as code, admission controls, audit logging, SAST, DAST and least-privilege access.
+
+I have worked in regulated environments implementing technical security, governance, reliability, and operational controls aligned with frameworks and requirements including FedRAMP, ISO 27001, SOC 2, HIPAA, PCI-DSS and NIST.
+
+---
+
+### Programming, Scripting and Systems
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server">
+</p>
+
+Python, Bash, PowerShell, REST APIs, Linux, Ubuntu, Red Hat Enterprise Linux, CentOS and Windows Server.
+
+---
+
+## Selected Engineering Work
+
+### Enterprise Kubernetes Platform, GitOps and Developer Self-Service
+
+* Standardized platform capabilities across more than 20 Amazon EKS and Azure AKS clusters.
+* Supported approximately 150 microservices within a broader organizational estate of more than 500 services.
+* Implemented Helm and Argo CD App-of-Apps delivery patterns.
+* Used Flagger, Istio, Karpenter, KEDA, Cluster Autoscaler and OPA Gatekeeper.
+* Implemented workload identity, RBAC, network policies, certificate automation and Kubernetes security controls.
+* Contributed to a Backstage-based Internal Developer Platform supporting more than 40 engineering teams.
+* Reduced service onboarding and time-to-production from weeks to under two days.
+
+### AWS and Azure Landing Zones
+
+* Contributed to cloud-foundation workstreams across more than 50 enterprise environments.
+* Implemented account and subscription segmentation, centralized identity, shared networking, logging, monitoring and policy guardrails.
+* Worked with AWS Organizations, Control Tower, Service Control Policies, Transit Gateway, CloudTrail and AWS Config.
+* Worked with Azure Management Groups, Azure Policy, Private Link, Private DNS and centralized Azure monitoring.
+* Developed reusable Terraform, CloudFormation and Bicep components.
+* Reduced infrastructure provisioning time by up to 90%.
+
+### Regulated Azure SaaS Platform
+
+* Designed and built UAT, production and customer-demonstration environments in Azure US Government.
+* Implemented hub-and-spoke and cross-subscription networking.
+* Used Private Endpoints, Private DNS, Application Gateway WAF, App Service, Key Vault and centralized logging.
+* Developed reusable Terraform infrastructure and automated deployment workflows.
+* Implemented OpenID Connect authentication and private deployment connectivity.
+* Troubleshot TLS, reverse-proxy headers, redirect URIs, dependency packaging and private network connectivity.
+
+---
+
+## Professional Interests
+
+I am interested in collaborating on projects involving:
+
+* DevOps and cloud platform engineering
+* Site Reliability Engineering
+* Kubernetes and cloud-native platforms
+* Internal Developer Platforms
+* Infrastructure as Code
+* CI/CD and GitOps
+* DevSecOps and cloud security
+* Observability and incident management
+* Platform automation and developer enablement
+
+---
+
+## Connect With Me
+
+<p>
+  <a href="https://github.com/AliFareed0009?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories">
+  </a>
+  <a href="https://www.linkedin.com/in/ali-fareed00009">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://dev.to/alifareed0009">
+    <img src="https://img.shields.io/badge/Dev.to-Read%20My%20Blogs-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to blogs">
+  </a>
+  <a href="mailto:alifareed0009@gmail.com">
+    <img src="https://img.shields.io/badge/Email-alifareed0009%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ali Fareed">
+  </a>
+</p>
+
+---
 
 <div align="center">
-  <img src="https://github.com/AliFareed0009/AliFareed0009/blob/main/Utils/banner.jpeg" alt="AliFareed0009 Banner">
+
+### Building scalable cloud platforms, reliable delivery systems and secure developer experiences.
+
 </div>
-
-<h3 align="center"><font face="Arial">I am a Senior DevOps / Site Reliability Engineer with 4+ years of experience building and operating cloud-native platforms across AWS and Azure.. Feel free to reach out</font></h3>
-<br>
-<p align="left">I specialize in Kubernetes, CI/CD automation, GitOps (ArgoCD), and Infrastructure as Code (Terraform/Ansible) with a strong focus on delivering scalable, reliable, and secure systems for production environments.</p>
- 
-<!-- GIF -->
-<img align="right" height="300" width="450" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679457321415/e404c522-8c6c-429a-b226-f8c98b9c3948.gif"/>
-
-<!-- Languages and Tools Section -->
-<h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
-
-- Implementing, and managing scalable CI/CD Pipelines, automating infrastructure, Microservices, Containers and ensuring system reliability
-- I’m looking to collaborate on **DevOps / Site Reliability / Platform Engineering / Cloud-native Projects**
-
-
-#### Programming Language Stack
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GNU Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="40" alt="bash logo"  />
-</div>
-
-#### Operating Systems
-<div align="left">
-    <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
-  <img width="12" />
-</div>
-
-#### Windows NT Family & Linux Distribution
-<div align="left">
-  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Red Hat-EE0000?logo=redhat&logoColor=white&style=for-the-badge" height="40" alt="redhat logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=white&style=for-the-badge" height="40" alt="centos logo"  />
-</div>
-
-#### Version Control
-<div align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
-</div>
-
-
-#### Containerization & Orchestration
-<div align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="40" alt="kubernetes logo"  />
-</div>
-
-#### CICD / Continuous Integration and Continuous Deployment
-<div align="left">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" height="40" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=black&style=for-the-badge" height="40" alt="gitlab logo"  />
-  <img width="12" />
-</div>
-
-<!-- GIF -->
-<img align="right" height="300" width="450" src="https://miro.medium.com/v2/resize:fit:1358/1*reRpiezl3EnhtteqjoGSLw.gif"/>
-
-#### Infrastructure as Code & Automation
-<div align="left">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge" height="40" alt="ansible logo"  />
-</div>
-
-#### Monitoring, Logging & Alerting
-<div align="left">
-  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=black&style=for-the-badge" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge" height="40" alt="prometheus logo"  />
-</div>
-
-#### Cloud Platforms
-<div align="left">
-  <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonwebservices&logoColor=FF9900&style=for-the-badge" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-</div>
-
-#### Project Management
-<div align="left">
-  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" height="40" alt="jira logo"  />
-  <img width="12" />
-</div>
-
-<!-- GIF -->
-
-<!--
-<img align="right" height="300" width="450" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/6oFTUDQ-1.gif"/>
--->
-
-#### Integrated Development Environments and Editors
-<div align="left">
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge" height="40" alt="vim logo"  />
-</div>
-
-<!-- Contact Section -->
-
-<h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
-
-- All of my projects are available here [https://github.com/AliFareed0009/Repositories](https://github.com/AliFareed0009?tab=repositories)
-<a href="https://github.com/AliFareed0009?tab=repositories" target="blank"><img align="center" src="https://github.com/AliFareed0009/AliFareed0009/blob/main/Utils/github-color-svgrepo-com.svg" alt="GitHub" height="30" width="40" /></a>
-
-- How to reach me **alifareed0009@gmail.com**
-<a href="alifareed0009@gmail.com" target="blank"><img align="center" src="https://github.com/AliFareed0009/AliFareed0009/blob/main/Utils/delivered-email-envelope-letter-mail-message-svgrepo-com.svg" title="Click Here to send me an Email" alt="Email" height="30" width="40" /></a>
-
-- Read my Blogs on Dev.to [https://dev.to/AliFareed0009](https://dev.to/alifareed0009)
-<a href="https://dev.to/alifareed0009" target="blank"><img align="center" src="https://github.com/AliFareed0009/AliFareed0009/blob/main/Utils/dev-to-svgrepo-com.svg" title="Click Here to read my Blogs" alt="Dev.to" height="30" width="40" /></a>
-
-- Connect with me on Linkedin [https://www.linkedin.com/in/AliFareed0009](https://www.linkedin.com/in/alifareed0009)
-<a href="https://www.linkedin.com/in/alifareed0009" target="blank"><img align="center" src="https://github.com/AliFareed0009/AliFareed0009/blob/main/Utils/linkedin-svgrepo-com.svg" title="Click Here to visit my LinkedIn Account" alt="LinkedIn" height="30" width="40" /></a>
